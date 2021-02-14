@@ -1,12 +1,10 @@
 ### Description
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
+Summary of the change and which issue is fixed.
 
 Fixes # (issue)
 
 ### Type of change
-
-Please delete options that are not relevant.
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
@@ -15,9 +13,5 @@ Please delete options that are not relevant.
 
 ### Checklist
 
-- [ ] I've tested my changes by running the project locally
-- [ ] I've commented my code in hard-to-understand areas
 - [ ] I've made corresponding changes to the documentation
 - [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
