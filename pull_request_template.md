@@ -1,8 +1,6 @@
 ### Description
 
-Summary of the change and which issue is fixed.
-
-Fixes # (issue)
+<!-- Summary of the change -->
 
 ### Checklist
 
