@@ -1,6 +1,6 @@
 ### Description
 
-<!-- Summary of the change -->
+Summary of the change.
 
 ### Checklist
 
